@@ -242,21 +242,6 @@ Lorem ipsum dolor sit amet
 </p>
 <br><br>
 
-<p>
-<img src="https://i.imgur.com/w6ru1cN.png">
-</p>
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br><br>
-
-<p>
-<img src="https://i.imgur.com/JXDGRBb.png">
-</p>
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br><br>
 
 <p>
 <img src="https://i.imgur.com/AwfmRDy.png">
@@ -291,44 +276,3 @@ Lorem ipsum dolor sit amet
 </p>
 <br><br>
 
-
-
-<p>
-<img src="">
-</p>
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br><br>
-
-<p>
-<img src="">
-</p>
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br><br>
-
-<p>
-<img src="">
-</p>
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br><br>
-
-<p>
-<img src="">
-</p>
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br><br>
-
-<p>
-<img src="">
-</p>
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br><br>
