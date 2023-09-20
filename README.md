@@ -27,25 +27,308 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lXn13tT.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Lorem ipsum dolor sit amet
 </p>
-<br />
+<br><br>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/htFmczR.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Lorem ipsum dolor sit amet
 </p>
-<br />
+<br><br>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eGXb1ap.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Lorem ipsum dolor sit amet
 </p>
-<br />
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/QzsOjHf.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/mz33bLf.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/RizHNKc.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/HjlaXMd.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/MWHp1Pb.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/PMXDIX6.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/TYoh0ih.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/huZjkjR.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/spIezJv.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/iKFU5Ee.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/vVIs1Nw.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/K36COBV.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/AT1mP2V.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/qWiRQQm.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/Fz0krS4.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/Ejw45Q4.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/CYz2IjI.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/3IjCE8I.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/AbSWXBh.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/TY8B5ey.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/SpInewa.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/d8cShLf.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/UH6ozjh.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/w6ru1cN.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/w6ru1cN.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/JXDGRBb.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/AwfmRDy.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/UH6ozjh.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="https://i.imgur.com/6Zu8gdM.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+
+<p>
+<img src="https://i.imgur.com/4ntdQaD.png">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+
+
+<p>
+<img src="">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
+
+<p>
+<img src="">
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br><br>
