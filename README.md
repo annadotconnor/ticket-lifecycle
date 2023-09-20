@@ -261,14 +261,6 @@ Lorem ipsum dolor sit amet
 
 
 <p>
-<img src="https://i.imgur.com/6Zu8gdM.png">
-</p>
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br><br>
-
-<p>
 <img src="https://i.imgur.com/JXDGRBb.png.png">
 </p>
 <p>
@@ -284,6 +276,12 @@ Lorem ipsum dolor sit amet
 </p>
 <br><br>
 
+
+<p>
+<img src="https://i.imgur.com/6Zu8gdM.png">
+</p>
+<p>
+<br><br>
   
 <p>
 <img src="https://i.imgur.com/4ntdQaD.png">
