@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/lXn13tT.png">
 </p>
 <p>
-Welcome to osTicket, or if you're here from the previous lab, welcome back :) If you would like to view the previous lab, please <a href="https://github.com/annadotconnor/osticket-setup">click here</a>. We will start at the agent dashboard. Throughout this lab we will demonstrate the support ticket life cycle, from user creation of a suppor ticket, to agent resolution. 
+Welcome to osTicket, or if you're here from the previous lab, welcome back :) If you would like to view the previous lab, please <a href="https://github.com/annadotconnor/osticket-setup">click here</a>. We will start at the agent dashboard. Throughout this lab we will demonstrate the support ticket life cycle, from user creation of a support ticket, to agent resolution. 
 </p>
 <br><br>
 
