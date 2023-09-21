@@ -142,7 +142,7 @@ She has updated this ticket to System Administrators as this would be an elevate
 <img src="https://i.imgur.com/K36COBV.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+She will then properly document her updates within the ticket. Hit Post Reply.
 </p>
 <br><br>
 
@@ -150,7 +150,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/AT1mP2V.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+In a live enterprise setting we would need to initiate research to find the issue, but for the sake of this lab we will say Jane found the issue, and is ready to move forward. Please click the Ticket tab and the ticket as shown. 
 </p>
 <br><br>
 
@@ -158,7 +158,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/qWiRQQm.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Resolution is documented and the Ticket Status drop down is updated to "resolved". This will move the ticket out of Jane's dashboard. 
 </p>
 <br><br>
 
@@ -166,7 +166,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/Fz0krS4.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+As we can see the ticket is now resolved, and no longer showing in Jane's dashboard to be worked. We will move on to the next ticket.
 </p>
 <br><br>
 
@@ -174,7 +174,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/Ejw45Q4.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+The next ticket will be assigned to our Support team member, John. This ticket is a SEV-B, High Priority. It's always good practice to reach out to your team member to let them know they are being assigned a ticket. This is called a warm handoff.
 </p>
 <br><br>
 
@@ -182,7 +182,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/CYz2IjI.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Proper documentation of the updates have been entered by Jane regarding assigning the ticket to John to be worked.
 </p>
 <br><br>
 
@@ -190,7 +190,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/3IjCE8I.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+We can see that this ticket is now in Jane's dashboard set to high priority, and assigned to John. It will remain here until an administrator has closed the ticket.
 </p>
 <br><br>
 
@@ -198,7 +198,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/AbSWXBh.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+For our last ticket Jane has assigned this to herself, updated SLA to SEV-C, and set priority level to low as appropriate.
 </p>
 <br><br>
 
@@ -206,7 +206,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/TY8B5ey.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+This ticket can be resolved with a simple update, as shown above. Ticket Status has been updated to "Resolved", and we're able to move on.
 </p>
 <br><br>
 
@@ -214,7 +214,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/SpInewa.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+As we can see the one remaining ticket is what we previously assigned to John. Go ahead and hit Log Out in the upper right corner. We will now move forward as our support agent John Doe.
 </p>
 <br><br>
 
@@ -222,7 +222,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/d8cShLf.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Login using the credentials you made for your second agent. 
 </p>
 <br><br>
 
@@ -230,7 +230,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/UH6ozjh.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+And here we can see the ticket is displayed in John's dashboard.
 </p>
 <br><br>
 
@@ -238,7 +238,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/w6ru1cN.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+One we click into the ticket we can see the original ticket message submitted, as well as the updates left by Jane.
 </p>
 <br><br>
 
@@ -247,7 +247,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/AwfmRDy.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Once again in a live setting we would need to initiate research to troubleshoot the issue, but for this lab we will move forward as John as resolved the problem. Proper documentation has been made. The Ticket Status remains open as the Support team does not have permissions to close tickets. Click Post Note, and once you are back on John's dashboard click Log Out in the upper right corner. 
 </p>
 <br><br>
 
@@ -256,7 +256,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/JXDGRBb.png.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+We will now login as our Sys Admin, and check John's progress.
 </p>
 <br><br>
 
@@ -264,7 +264,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/ltQbuuF.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+We can see John successfully rolled back the software update, and the department is back up and working. Though John is looking into why the new update may have caused an outage, we can go ahead and close his ticket for him since the root issue has been resolved. The Ticket Status will be set to resolved. 
 </p>
 <br><br>
 
