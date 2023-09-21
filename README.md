@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/lXn13tT.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Welcome to osTicket, or if you're here from the previous lab, welcome back :) We will start at the agent dashboard. Throughout this lab we will demonstrate the support ticket life cycle, from user creation of a suppor ticket, to agent resolution. 
 </p>
 <br><br>
 
@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/htFmczR.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Click Open a New Ticket, and choose one of the users you previously created. Choose Business Critical Outage as the topic, and you can choose your scenario or use what I have entered above. Scroll down and hit Create Ticket.
 </p>
 <br><br>
 
@@ -46,7 +46,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/eGXb1ap.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Confirmation of the ticket has been submitted. We  will continue making a couple more tickets to demonstrate, please click Open a New Ticket once again.
 </p>
 <br><br>
 
@@ -54,7 +54,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/QzsOjHf.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Just as before, choose a user you created, update the Help Topic as shown above, and enter the details. Click Create Ticket.
 </p>
 <br><br>
 
@@ -62,7 +62,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/mz33bLf.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+One more ticket, please repeat the process following the guidelines shown.
 </p>
 <br><br>
 
@@ -70,7 +70,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/RizHNKc.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Now that we have support tickets created we will log out, and log back in as one of our agents to work the ticket.
 </p>
 <br><br>
 
@@ -78,7 +78,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/HjlaXMd.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Please enter the username and password credentials you created for your agent. If you username does not work, try the email you created for that agent. 
 </p>
 <br><br>
 
@@ -86,7 +86,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/MWHp1Pb.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+We are now in Jane's dashboard. If Jane were a real support agent, this is what she would see at the start of her work day. All users are shown that submitted suport tickets, and currently all tickets are at a "Normal" priority level. 
 </p>
 <br><br>
 
@@ -94,7 +94,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/PMXDIX6.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+From here Jane will begin to assign the tickets to either herself or other agents in the department as well as update the priority level and SLA.
 </p>
 <br><br>
 
@@ -102,7 +102,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/TYoh0ih.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Jane has chosen to assign the first ticket to herself. 
 </p>
 <br><br>
 
@@ -110,7 +110,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/huZjkjR.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+She will now assign the SLA.
 </p>
 <br><br>
 
@@ -118,7 +118,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/spIezJv.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+She has determined this is a business impacting event, and appropriately chosen SEV-A.
 </p>
 <br><br>
 
@@ -126,7 +126,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/iKFU5Ee.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+She must now assign this ticket to a Department.
 </p>
 <br><br>
 
@@ -134,7 +134,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/vVIs1Nw.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+She has updated this ticket to System Administrators as this would be an elevated urgency, and the subject matter is the responsibility of the Sys Admins. 
 </p>
 <br><br>
 
