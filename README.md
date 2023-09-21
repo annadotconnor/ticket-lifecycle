@@ -264,7 +264,7 @@ We will now login as our Sys Admin, and check John's progress.
 <img src="https://i.imgur.com/ltQbuuF.png">
 </p>
 <p>
-We can see John successfully rolled back the software update, and the department is back up and working. Though John is looking into why the new update may have caused an outage, we can go ahead and close his ticket for him since the root issue has been resolved. The Ticket Status will be set to resolved. 
+We can see John's ticket is open in our Admin panel. We will review John's progress.
 </p>
 <br><br>
 
@@ -273,11 +273,14 @@ We can see John successfully rolled back the software update, and the department
 <img src="https://i.imgur.com/6Zu8gdM.png">
 </p>
 <p>
+  We can see John successfully rolled back the software update, and the department is back up and working. Though John is looking into why the new update may have caused an outage, we can go ahead and close his ticket for him since the root issue has been resolved. The Ticket Status will be set to resolved. 
+</p>
 <br><br>
   
 <p>
 <img src="https://i.imgur.com/4ntdQaD.png">
 </p>
 <p>
+ All tickets have cleared. This concludes our osTicket Life Cycles demonstration. 
 <br><br>
 
