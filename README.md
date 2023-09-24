@@ -86,7 +86,7 @@ Please enter the username and password credentials you created for your agent. I
 <img src="https://i.imgur.com/MWHp1Pb.png">
 </p>
 <p>
-We are now in Jane's dashboard. If Jane were a real support agent, this is what she would see at the start of her work day. All users are shown that submitted suport tickets, and currently all tickets are at a "Normal" priority level. 
+We are now in Jane's dashboard. If Jane were a real support agent, this is what she would see at the start of her work day. All users are shown that submitted support tickets, and currently all tickets are at a "Normal" priority level. 
 </p>
 <br><br>
 
